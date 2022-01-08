@@ -1,5 +1,18 @@
 {
   "portofolio": [
+    {
+        "id": 5,
+        "title": "Personal Logo",
+        "types": "Branding",
+        "photo": [
+            {
+                "url": "/myLogo.png",
+                "alt": "mylogo"
+            }
+        ],
+        "event": "Personal",
+        "desc": " &#9;Logo ini memiliki bentuk gabungan dari inisial nama saya yaitu W dan juga K . Dan perpaduan warna yang saya gunakan adalah ungu dan juga hitam . Dimana warna ungu dianggap mampu menarik perhatian, memancarkan kekuatan bahkan tidak lepas dari kesan lain, seperti ambisius, independen, kebijaksanaan, visioner, bahkan kemewahan . Sedangkan hitam melambangkan landasan, kekuatan, dan penangkal hal-hal negatif. Dan saya harap kedua warna ini dapat mencerminkan diri saya sendiri ."
+    },
       {
           "id": 0,
           "title": "Recreate Elearning USU mobile App",
@@ -19,7 +32,7 @@
               }
           ],
           "event": "Design Interaction Practice 2021",
-          "desc": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "desc": " &#9; High fideality prototype untuk aplikasi elearning USU dalam bentuk mobile Apps . Dengan menggunakan mobile apps tentunya akan memudahkan para mahasiswa mengakses kegiatan di dalam elearning . <br />&#9; Penggunaan warna juga di sesuaikan dengan brand dari universitas sumatera utara yaitu hijau dan kuning . Dimana kuning, melambangkan kian berilmu kian merunduk; dan rangkaian daun tembakau berwarna hijau, melambangkan Tembakau Deli, hasil daerah tempat USU.<br />&#9; Prototype ini merupakan salah satu tugas dalam praktik desain interaksi . "
       },
       {
           "id": "1",
@@ -36,7 +49,7 @@
               }
           ],
           "event": "PMB TI USU 2021",
-          "desc": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "desc": "&#9;Dalam acara PMB TI USU 2021 atau Penerimaan Mahasiswa Baru Teknologi Informasi USU , saya dipercara untuk membuat branding acara tersebut dengan tema Training To Earn Achievement . <br />&#9; Dalam branding kali ini saya ingin menonjolkan nuansa yang ceria dan juga masih terkait dengan teknologi . Sehingga saya menggunakan warna kuning yang memberi kesan ceria dan juga berkaitan dengan tema yaitu prestasi . Sedangkan biru memberikan kesan teknologi . <br />&#9;Untuk logo TECH sendiri , menggambarkan tag html yang sering digunakan untuk simbol acara developer . Karena acara kali ini juga ingin mengenalkan dunia developer hingga bagaimana perkuliahan sebagai mahasiswa IT . Sedangkan bulatan kuning melambangkan medali yang bermakna sebagai prestasi mahasiswa . "
       },
       {
           "id": "3",
@@ -49,7 +62,7 @@
               }
           ],
           "event": "Renyirih PKM 2021",
-          "desc": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "desc": "&#9;Berikut adalah kemasan dari salah satu produk UMKM yang menjadi salah satu peserta PKM tahun 2021 . Produk ini merupakan produk yang sangat inovatif , dimana mereka memanfaatkan ekstrak kinang sebagai bahan untuk membuat permen karet . Dengan adanya permen karet berbahan kinang ini , tentunya dapat menarik minat anak muda untuk mencoba kinang dengan cara baru . <br />&#9; Produk ini memiliki manfaat yang baik untuk kesehatan gigi dan juga telah menjadi sebuah budaya di Indonesia . Permen karet ini menjadi gaya baru untuk nginang tanpa takut terlihat kuno , namun dapat  tetap memperoleh manfaat dari kinang .           "
       },{
           "id": "2",
           "title": "SpartaCord",
@@ -65,7 +78,7 @@
               }
           ],
           "event": "UMKM Medan",
-          "desc": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "desc": "&#9; Spartacord merupakan produk UMKM yang bergerak dibidang fashion accesories . Namun produk ini ditarget kan untuk pada petualang yang membutuhkan produk yang kuat dan berkualitas untuk dibawa bepergian di alam . <br />&#9; Spartacord juga menggunakan bahan yang istimewa yaitu tali paracord yang dikenal dengan ketahanan dan kualitas nya . Ada berbagai macam jenis produk yang ditawarkan diantara nya gelak , tali masker , tali jam dan lainnya . Produk juga dapat di custom sesuai dengan warna dan ukuran masing-masing pembeli .          "
       },
       {
           "id": "4",
@@ -106,7 +119,7 @@
               }
           ],
           "event": "Himatif USU Competition",
-          "desc": "Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "desc": "&#9; Berikut merupakan postingan yang saya buat untuk mengikuti kompetisi microblog di HIMATIF USU . Microblog ini berisikan penjelasan singkat seputar Artificial Intelligence dari pengertian hingga contoh pemanfaatan . Microblog ini disusun semenarik dan seinformatif mungkin agar pesan dapat tersampaikan pada pembaca."
       }
   ],
   "experiences": [
