@@ -133,6 +133,13 @@
       {
         "id": 1,
         "photo": "/digitalskola.JPG",
+        "title": "Internship Trainee",
+        "desc": "Be a Intern in PT.Telkom Indonesia at Regional I Sumatera on Manage Service Operation Division",
+        "place": "Kampus Merdeka Internship Program"
+      },
+      {
+        "id": 2,
+        "photo": "/telkom.jpg",
         "title": "Independent Study as Data Scientist",
         "desc": "Be part of 100 students who take part in studi independent kampus merdeka at digital skola as data scientist",
         "place": "Studi Independen Kampus Merdeka"
